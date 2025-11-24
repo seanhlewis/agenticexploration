@@ -156,7 +156,7 @@ By merging real world mapping with gaming, I hope to help pave the way for next 
 
 ## Acknowledgments
 
-I thank Cornell Tech and Bowers CIS for their support, as well as the open source contributors to tools like Minescript, Anvil, OccRWKV, and Diamond Diffusion. Special thanks to the SemanticKITTI team for their dataset framework, which strongly influenced how I thought about temporal sequences of 3D scenes. I am also grateful to all collaborators, mentors, and peers for their valuable feedback on both the technical design and the broader framing of this work.
+I thank Cornell Tech and Bowers CIS for their support, as well as the open source contributors to tools like Minescript, Anvil, OccRWKV, and Diamond Diffusion. Special thanks to the SemanticKITTI team for their dataset framework, which strongly influenced how I thought about temporal sequences of 3D scenes. I am also grateful to all mentors and peers for their valuable feedback on both the technical design and the broader framing of this work.
 
 ---
 
@@ -165,4 +165,3 @@ I thank Cornell Tech and Bowers CIS for their support, as well as the open sourc
 Behley, J., et al. SemanticKITTI: Semantic Scene Understanding of LiDAR Sequences. ICCV, 2019.  
 Wang, J., et al. OccRWKV: Real Time 3D Occupancy Grid. GitHub.  
 Alonso, E., et al. Diamond Diffusion: Contour Guided Translation. GitHub.  
-Lewis, R., et al. Diffusion3D: Integrating Image to Image for 3D Systems. GitHub.
